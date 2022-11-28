@@ -13,6 +13,7 @@ const cacheName = 'ginkobusPWA-v1';
             "icons/maskable_icon.png",
             "service-worker.js",
             "index.html",
+            "app.js",
             "style.css"
     ];
 self.addEventListener('install', (e) => {
