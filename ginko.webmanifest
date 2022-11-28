@@ -4,7 +4,7 @@
   "theme_color": "red",
   "start_url": "index.html",
   "display": "fullscreen",
-  "orientation": "portrait"
+  "orientation": "portrait",
   "background_color": "#fff",
   "description": "Les horaires ginko à porté de main",
   "icons": [{
