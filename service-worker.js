@@ -11,7 +11,7 @@ const cacheName = 'ginkobusPWA-v1';
             "icons/icon-256.png",
             "icons/icon-512.png",
             "icons/maskable_icon.png",
-            "app.js",
+            "service-worker.js",
             "index.html",
             "style.css"
     ];
