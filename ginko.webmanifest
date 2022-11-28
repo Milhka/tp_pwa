@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "name": "Ginko",
   "short_name": "Ginko",
   "theme_color": "red",
