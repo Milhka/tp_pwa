@@ -5,7 +5,6 @@ const cacheName = 'ginkobusPWA-v1';
             "icons/icon-64.png",
             "icons/icon-96.png",
             "icons/icons-128.png",
-            "icons/icons-168.png",
             "icons/icon-180.png",
             "icons/icon-192.png",
             "icons/icon-256.png",
