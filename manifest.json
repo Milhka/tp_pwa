@@ -2,6 +2,7 @@
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "name": "Ginko",
   "short_name": "Ginko",
+  "theme_color": "red",
   "start_url": "index.html",
   "display": "fullscreen",
   "orientation": "portrait"
