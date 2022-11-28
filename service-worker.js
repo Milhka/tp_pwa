@@ -1,4 +1,4 @@
-const cachName = 'ginkobusPWA-v1';
+const cacheName = 'ginkobusPWA-v1';
     const appShellFiles = [ 
             "icons/favicon.ico",
             "icons/icon-32.png",
